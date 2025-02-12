@@ -1,5 +1,7 @@
 # Love-Calculator
 
+Buy this Script whatsapp on 8459280715 with script name
+
 Here is a well-structured `README.md` file for your **Love Calculator** project:  
 
 ---
@@ -27,7 +29,7 @@ Screenshot_2025-02-12-15-23-54-734_com.android.chrome-edit.png
 ![Love Calculator](1.png)  
 ![Love Calculator](2.png)
 
-*(Replace `image.png` with your actual image path.)*  
+*( Buy this Script whatsapp on 8459280715 with script name .)*  
 
 ---
 
