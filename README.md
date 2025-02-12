@@ -23,6 +23,7 @@ Love Calc, Love Calculator,  Viral Script,  Love Match using php myself database
 
 ## 📸 Screenshot  
 
+Screenshot_2025-02-12-15-23-54-734_com.android.chrome-edit.png
 ![Love Calculator](1.png)  
 ![Love Calculator](2.png)
 
